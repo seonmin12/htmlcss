@@ -1,0 +1,65 @@
+/* #container{
+ width: 500px;
+ /* height: 450px;  */
+ /* margin : 0 auto; 
+ padding: 0px;             
+}
+
+#content_container{
+width : 480px;
+border: 1px solid black;
+
+
+}
+
+#title{
+background: black ;
+font-size: 15px;
+color: white;
+margin : 0;
+padding : 5px;
+text-align: left;
+
+}
+
+.my-class1{
+color: blue;
+text-align: center;
+font-weight: 700;
+}
+
+h2{
+text-align: center;
+color:red;
+}
+
+p{
+text-align: center;
+}
+
+#phone{
+font-weight: 700;
+} */ 
+
+table{
+border: 1px solid black;
+border-collapse: collapse;
+caption-side: bottom;
+}
+
+caption{
+text-align: right;
+}
+
+td, th{
+border: 1px solid black;
+padding: 12px;
+}
+
+td{
+text-align: center;
+}
+
+.coloring{
+background: greenyellow;
+}
