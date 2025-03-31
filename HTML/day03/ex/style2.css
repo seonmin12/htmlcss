@@ -1,0 +1,26 @@
+/* html,body{
+   height: 100%;
+} */
+
+body{
+   display: flex;
+  
+}
+
+
+div{
+
+width: 200px;
+height: 200px;
+background-color: violet;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+#second{
+   background-color: bisque;
+
+}

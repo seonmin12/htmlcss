@@ -1,0 +1,26 @@
+html,body{
+   height: 100%;
+}
+
+body{
+   display: flex;
+   /* 주축정렬 */
+   /* justify-content: space-around; */
+   /* 교차축정렬(세로축정렬) */
+   flex-direction: column;
+   justify-content: flex-end;
+}
+
+
+div{
+
+width: 200px;
+height: 200px;
+background-color: violet;
+
+}
+
+#second{
+   background-color: bisque;
+
+}
